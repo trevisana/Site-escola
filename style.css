@@ -15,12 +15,16 @@
 
 }
 
+.escola-imagem{
+    width:25%;
+    }
 * {
     margin: 0;
     padding: 0;
 }
- body{font-family: 'Poppins', sans-serif;
 
-
-}
  
+.escola {
+    background-image: linear-gradient(#383D58,#00c0eb);
+    color:white ;
+    }
